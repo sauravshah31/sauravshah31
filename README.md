@@ -86,7 +86,7 @@
   </table>
   <p>
   <samp>
-  🟢 Repositry is public.<br/>
+  🟢 Repository is public.<br/>
   🔴 Repository is private. <em>I have added links to github-pages of some of my private repos.</em>
   </samp>
   <p>
