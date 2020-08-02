@@ -23,7 +23,7 @@
       <td>
         <ul>
           <li><a href="https://en.wikipedia.org/wiki/Database_index">Database indexing </a>implementation in C++ on top of sqlite3 using <a href="https://en.wikipedia.org/wiki/B-tree">B-Tree</a></li>
-          <li>In particular <a href="https://github.com/sauravshah31/index/blob/master/index.cpp">btree.cpp</a> might be useful if you are looking for B-Tree implementation (code)</li>
+          <li>In particular <a href="https://github.com/sauravshah31/index/blob/master/btree.cpp">btree.cpp</a> might be useful if you are looking for B-Tree implementation (code)</li>
         </ul>
       </td>
       <td>🟢</td>
