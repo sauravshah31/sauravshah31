@@ -1,5 +1,5 @@
 <div>
-  <h1>Hi there✌</h>
+  <h1>Hi there✌</h1>
 
   <samp>Here's a brief about the repositories.</samp>
   <table>
