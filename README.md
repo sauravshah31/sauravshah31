@@ -55,6 +55,7 @@
         <ul>
           <li>HTML5 Canvas based simple paint like application</li>
           <li>Have a look at <a href="https://sauravshah31.github.io/draw/assets/js/canvas.js">this js file<a/> if you are interested in code</li>
+          <li>Scribbling random sh!t is a great way to pass time 😏</li>
         </ul>
       </td>
       <td>🔴</td>
@@ -89,5 +90,6 @@
   </samp>
   <p>
 </div>
-<footer>
-</footer>
+
+*****
+<samp>If you have any suggestions or queries , feel free to connect with me via <a href="https://www.linkedin.com/in/sauravshah-">LinkedIn</a></samp>
