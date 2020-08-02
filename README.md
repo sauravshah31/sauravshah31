@@ -56,6 +56,7 @@
           <li>HTML5 Canvas based simple paint like application</li>
           <li>Have a look at <a href="https://sauravshah31.github.io/draw/assets/js/canvas.js">this js file<a/> if you are interested in code</li>
           <li>Scribbling random sh!t is a great way to pass time 😏</li>
+          <li>Press <kbd>Ctrl</kbd> and use mouse clicks to draw straight lines. <kbd>Ctrl+Z</kdb> is supported</li>
         </ul>
       </td>
       <td>🔴</td>
