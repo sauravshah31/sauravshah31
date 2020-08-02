@@ -95,4 +95,4 @@
 *****
 <samp>If you have any suggestions or queries , feel free to connect with me via <a href="https://www.linkedin.com/in/sauravshah-">LinkedIn</a></samp>
 
-<img src="https://counter3.stat.ovh/private/freecounterstat.php?c=syx2d8zmuwaymwxrjs2yqscr9ghjd8lf"/>
+
