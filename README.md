@@ -19,6 +19,15 @@
       <td>🟢</td>
     </tr>
     <tr>
+      <td><a href="https://sauravshah31.github.io/Checkers/">Checkers</a></td>
+      <td>
+        <ul>
+          <li>Checkers game in JavaScript</li>
+        </ul>
+      </td>
+      <td>🟢</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/sauravshah31/index">index</a></td>
       <td>
         <ul>
