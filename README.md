@@ -19,6 +19,17 @@
       <td>🟢</td>
     </tr>
     <tr>
+      <td><a href="https://sauravshah31.github.io/team_millennials/">Stress Management</a></td>
+      <td>
+        <ul>
+          <li>Stress Management & Mental Health Wellbeing Web Application</li>
+          <li>Work in progress</li>
+          <li>Wan't to collaborate? Feel free to connect with me via <a href="https://www.linkedin.com/in/sauravshah-/">LinkedIn</a> or send me an email to sauravshah.31@gmail.com</li>
+        </ul>
+      </td>
+      <td>🔴</td>
+    </tr>
+    <tr>
       <td><a href="https://sauravshah31.github.io/Checkers/">Checkers</a></td>
       <td>
         <ul>
