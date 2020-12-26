@@ -9,7 +9,7 @@
       <th>Type</th>
     </tr>
   <tr>
-      <td><a href="https://sauravshah31.github.io/SoulSion/">SoulSion</a></td>
+      <td><a href="https://github.com/sauravshah31/SoulSion">SoulSion</a></td>
       <td>
         <ul>
           <li>Stress Management & Mental Health Wellbeing Web Application</li>
