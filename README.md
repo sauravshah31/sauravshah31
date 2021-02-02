@@ -8,16 +8,6 @@
       <th>Brief</th>
       <th>Type</th>
     </tr>
-  <tr>
-      <td><a href="https://github.com/sauravshah31/SoulSion">SoulSion</a></td>
-      <td>
-        <ul>
-          <li>Stress Management & Mental Health Wellbeing Web Application</li>
-          <li>SoulSion is now open source. Start contributing!!. Click <a href="https://www.soulsion.com/contribute">this</a> to know more.</li>
-        </ul>
-      </td>
-      <td>🟢</td>
-    </tr>
     <tr>
       <td><a href="https://github.com/sauravshah31/Display_Subtitle">Display_Subtitle</a></td>
       <td>
